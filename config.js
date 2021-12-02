@@ -4,12 +4,14 @@ const environments = {
     httpsPort: 3001,
     envName: "staging",
     secret: "somesecret",
+    maxChecks: 5,
   },
   production: {
     httpPort: 5000,
     httpsPort: 5001,
     envName: "production",
     secret: "somesecret",
+    maxChecks: 10,
   },
 };
 
