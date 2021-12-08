@@ -13,9 +13,6 @@ const httpsOptions = {
   cert: fs.readFileSync("./https/cert.pem"),
 };
 
-const _data = require("./lib/data");
-const { Hmac } = require("crypto");
-
 http
   .createServer((req, res) => {
     unifiedServer(req, res);
