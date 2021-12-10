@@ -1,8 +1,8 @@
 {
-  "id": "dw6ygl5ttb5wbqkul6cq",
+  "id": "lkw44xwtbp6unqukrnbv",
   "phone": "4158675309",
   "protocol": "https",
-  "url": "google.ru",
+  "url": "mail.ru",
   "method": "get",
   "successCodes": [
     200,
@@ -12,5 +12,5 @@
   ],
   "timeoutSeconds": 2,
   "state": "up",
-  "lastChecked": 1639127562876
+  "lastChecked": 1639127562949
 }
