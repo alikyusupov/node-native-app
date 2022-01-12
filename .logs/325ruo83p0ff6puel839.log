@@ -1,0 +1,1 @@
+{"check":{"id":"325ruo83p0ff6puel839","phone":"4158675309","protocol":"https","url":"yahoo.com","method":"get","successCodes":[200,201,301,302],"timeoutSeconds":2,"state":"up","lastChecked":1641997163351},"outcome":{"error":false,"responseCode":301},"state":"up","alert":false,"time":1641997168296}
