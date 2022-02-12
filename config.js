@@ -10,6 +10,12 @@ const environments = {
       authToken: "9455e3eb3109edc12e3d8c92768f7a67",
       fromPhone: "+15005550006",
     },
+    templateGlobals: {
+      appName: "UptimeChecker",
+      companyName: "NotARealCompany, Inc.",
+      yearCreated: "2018",
+      baseUrl: "http://localhost:3000/",
+    },
   },
   production: {
     httpPort: 5000,
