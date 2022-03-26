@@ -1,1 +1,0 @@
-{"check":{"id":"lkw44xwtbp6unqukrnbv","phone":"4158675309","protocol":"https","url":"mail.ru","method":"get","successCodes":[200,201,301,302],"timeoutSeconds":2,"state":"up","lastChecked":1641997163020},"outcome":{"error":false,"responseCode":200},"state":"up","alert":false,"time":1641997168085}
